@@ -95,6 +95,10 @@ For input validation, the api is using Zod to validate the inputs according to a
 - For names, it is required and can't be null.
 
 
+### Testing
+
+If you wish to use Postman to test the API, you can import the included postman collection `RESTful backend data handling.postman_collection.json`. 
+
 
 
 
